@@ -8,10 +8,6 @@
 </head>
 <body>
 <h2>Hello World!</h2>
-test1234567
-하하하 
-111
-222
-333
+새롭게 시작하는 하루 ~
 </body>
 </html>
