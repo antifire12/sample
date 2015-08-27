@@ -8,6 +8,7 @@
 </head>
 <body>
 <h2>Hello World!</h2>
-새롭게 시작하는 하루 ~
+새롭게 시작하는 하루 ~ <br>
+happy day~
 </body>
 </html>
